@@ -8,7 +8,6 @@
 # 2). Num2 (int)
 # 3). the operation  (str))
 # print the result on the basis of the selection 
-# hint 
 val = 'y'
 
 while(val!='n'):
