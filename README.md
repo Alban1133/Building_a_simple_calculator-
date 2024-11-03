@@ -1,5 +1,3 @@
-
-# a simple calculator 
 # opertors are +,-,/,* 
 # in the string form 
 # ny numbers will be in int 
